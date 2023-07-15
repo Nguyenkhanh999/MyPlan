@@ -1,0 +1,21 @@
+.img-reponsive {
+    width: 100%;
+    height: 120%;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.modal-content {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.block-image {
+    margin-top: 50px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}

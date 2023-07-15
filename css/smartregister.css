@@ -1,0 +1,49 @@
+.section-register {
+    min-height: 1000px;
+    background: #fec09b;
+    display: flex;
+}
+
+.form-background {
+    background: #e9ab9c;
+    min-height: auto;
+    margin-top: 100px;
+    margin-bottom: auto;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+}
+
+.form-background>h3 {
+    text-align: center;
+    margin: 30px;
+}
+
+.form-item {
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+
+.btn-login {
+    padding: 12px 38px;
+    font-size: 18px;
+    text-transform: uppercase;
+    /* viết tất cả chữ thành in hoa */
+    letter-spacing: 2px;
+    background-color: #025a09;
+    color: #fff;
+    border: 1px solid #000000;
+    outline: none;
+    cursor: pointer;
+    display: table;
+    margin: 15px auto 15px auto;
+}
+
+.form-avatar {
+    margin-bottom: 20px;
+}
+
+.avata-upload {
+    margin-top: 10px;
+}
